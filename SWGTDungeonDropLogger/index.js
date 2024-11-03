@@ -4,7 +4,7 @@ const path = require('path');
 
 const version = '1.0.0';
 const pluginName = 'SWGTDungeonDropLogger';
-const siteURL = 'http://local.swgt.io';'https://swgt.io';
+const siteURL = 'https://swgt.io';
 
 module.exports = {
     pluginName,
