@@ -1,0 +1,1 @@
+# swgt-dungeondroplogger-swex-plugin
